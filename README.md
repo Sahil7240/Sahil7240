@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am currently working web devlopment<br>i have some knowledge about c,c++,java,python,html,css,javascript<br>currently intrested in web devlopment and cyber security<br>i also have plenty of knowledge about cyber security and kali linux<br>currently i am seeking for freelancing projects, jobs and interships<br>seeking future in cyber securtiy and web develpoment in govt or high paid corporate sector<br>
+I am a Web Development and Cyber Security enthusiast with hands-on experience in C, C++, Java, Python, HTML, CSS, and JavaScript.
+Actively build websites while focusing on writing clean, secure, and scalable code. 
+I have practical knowledge of cyber security concepts, Kali Linux, and common security tools used for network analysis and penetration testing. 
+Enjoy working at the intersection of development and security to create reliable digital solutions. 
+Currently seeking freelancing projects, internships, or entry-level roles where I can contribute, learn, and grow professionally.
 
 
 ## 🌐 Socials:
