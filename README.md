@@ -12,6 +12,21 @@ I have practical knowledge of cyber security concepts, Kali Linux, and common se
 Enjoy working at the intersection of development and security to create reliable digital solutions. 
 Currently seeking freelancing projects, internships, or entry-level roles where I can contribute, learn, and grow professionally.
 
+- 🔭 I’m currently working on Project Web Develpoment and Designing of Company **Pharma Tech**
+
+- 👨‍💻 All of my projects are available at Repositories [Saya7240](Saya7240)
+
+- 📫 How to reach me **sahilpatil7240@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sahil patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil patil" height="30" width="40" /></a>
+<a href="https://instagram.com/sahil_patil_724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_patil_724" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sahil_patil_724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_patil_724" height="30" width="40" /></a>
+<a href="https://discord.gg/wBhKmc79a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wBhKmc79a" height="30" width="40" /></a>
+</p>
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wBhKmc79a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sahil_patil_724) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilpatil7240@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/sahil_patil_724/)
