@@ -18,7 +18,7 @@ Currently seeking freelancing projects, internships, or entry-level roles where 
 
 - 📫 How to reach me **sahilpatil7240@gmail.com**
 
-<h3 align="left">## 🌐 Socials:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahil patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil patil" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil_patil_724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_patil_724" height="30" width="40" /></a>
