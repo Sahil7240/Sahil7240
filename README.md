@@ -14,7 +14,7 @@ Currently seeking freelancing projects, internships, or entry-level roles where 
 
 - 🔭 I’m currently working on Project Web Develpoment and Designing of Company **Pharma Tech**
 
-- 👨‍💻 All of my projects are available at Repositories [Saya7240](Saya7240)
+- 👨‍💻 All of my projects are available at Repositories [Sahil7240](Sahil7240)
 
 - 📫 How to reach me **sahilpatil7240@gmail.com**
 
