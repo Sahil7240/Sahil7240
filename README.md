@@ -16,7 +16,7 @@ Currently seeking freelancing projects, internships, or entry-level roles where 
 
 - 👨‍💻 All of my projects are available at Repositories [Sahil7240](Sahil7240)
 
-- 📫 How to reach me **sahilpatil7240@gmail.com**
+- 📫 How to reach me **sahilpatil02052005@gmail.com**
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
